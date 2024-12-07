@@ -6,14 +6,15 @@ Welcome to **Red-Eye**, a cutting-edge cybersecurity framework designed for pene
 
 ## 🔍 **What is Red-Eye?**  
 
-**Red-Eye: Advanced PDF Exploit Framework** is a comprehensive cybersecurity exploration tool designed to analyze vulnerabilities in **Adobe Reader and other document parsers**.  
+**Red-Eye: Advanced PDF Exploit Framework And Other Exploit Frameworks** is a comprehensive cybersecurity exploration tool designed to analyze vulnerabilities in **Adobe Reader and other document parsers**.  
+
 
 ✅ **Objective:**  
 - Discover vulnerabilities in document-based systems.  
 - Simulate real-world exploitation scenarios for educational purposes.  
 
 ⚠️ **Disclaimer:**  
-This tool is for **educational and ethical testing purposes only.** Any unauthorized or malicious use is illegal.  
+All tools is for **educational and ethical testing purposes only.** Any unauthorized or malicious use is illegal.  
 
 ---
 
